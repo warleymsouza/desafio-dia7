@@ -48,7 +48,7 @@ menu: while(true){
             break;
 
         case "sair":
-            alert ('Saindo...');
+            alert ('Até a proxima.');
             break menu;
 
         default:
